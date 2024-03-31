@@ -1,4 +1,4 @@
-# Enfileiramento_e_denfileiramento_de_filas
+# Enfileiramento_e_desfileiramento_de_filas
 
 Este arquivo Pyton foi criado com base em outro arquivo Pyton com o intuito de estudo, sequindo as regras impostas pelo professor.
 A sequir tera uma explicação sobre os classes e metodos utilizados e um exemplo de uso:
